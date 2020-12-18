@@ -39,7 +39,7 @@ pagination:
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: false
 
-  # The default document collection to paginate if nothing is specified ('posts' is default)
+  # The default  collection to paginate if nothing is specified ('posts' is default)
   collection: 'posts'
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
@@ -89,8 +89,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2020 Duo Xu'
+admin_name: 'Duo Xu'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
